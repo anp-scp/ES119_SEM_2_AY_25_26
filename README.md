@@ -18,5 +18,31 @@ This repository contains all notebooks for tutorials discussed during lab sessio
     <td class="tg-0pky">Profiling</td>
     <td class="tg-0pky"><a href="https://colab.research.google.com/drive/1NREBr22BvDH92LIaPyb93bhCtwORpYG9?usp=sharing" target="_blank" rel="noopener noreferrer">Notebook</a></td>
   </tr>
+
+  <tr>
+    <td class="tg-lboi">2</td>
+    <td class="tg-9wq8">13/01/2026</td>
+    <td class="tg-0pky">K-Nearest Neighbors</td>
+    <td class="tg-0pky"><a href="https://github.com/anp-scp/ES119_SEM_2_AY_25_26/blob/main/labs/lab2_13_jan/k_nearest.ipynb" target="_blank" rel="noopener noreferrer">Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">3</td>
+    <td class="tg-9wq8">27/01/2026</td>
+    <td class="tg-0pky">Graph</td>
+    <td class="tg-0pky"><a href="https://github.com/anp-scp/ES119_SEM_2_AY_25_26/blob/main/labs/lab3_27_jan/Graph.ipynb" target="_blank" rel="noopener noreferrer">Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">4</td>
+    <td class="tg-9wq8">03/02/2026</td>
+    <td class="tg-0pky">A* / MinMax / AlphaBeta (class demo)</td>
+    <td class="tg-0pky"><a href="https://github.com/anp-scp/ES119_SEM_2_AY_25_26/blob/main/labs/lab4_3_feb/AstarMinMaxAlphaBetaClassDemo.ipynb" target="_blank" rel="noopener noreferrer">Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">5</td>
+    <td class="tg-9wq8">10/02/2026</td>
+    <td class="tg-0pky">Data Foundation &amp; ML</td>
+    <td class="tg-0pky"><a href="https://github.com/anp-scp/ES119_SEM_2_AY_25_26/blob/main/labs/lab5_10_feb/DataFoundationandML.ipynb" target="_blank" rel="noopener noreferrer">Notebook</a></td>
+  </tr>
+
 </tbody>
 </table>
