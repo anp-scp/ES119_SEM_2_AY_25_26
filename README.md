@@ -43,6 +43,12 @@ This repository contains all notebooks for tutorials discussed during lab sessio
     <td class="tg-0pky">Data Foundation &amp; ML</td>
     <td class="tg-0pky"><a href="https://github.com/anp-scp/ES119_SEM_2_AY_25_26/blob/main/labs/lab5_10_feb/DataFoundationandML.ipynb" target="_blank" rel="noopener noreferrer">Notebook</a></td>
   </tr>
+    <tr>
+    <td class="tg-lboi">6</td>
+    <td class="tg-9wq8">17/02/2026</td>
+    <td class="tg-0pky">Supervised Learning &amp; ML</td>
+    <td class="tg-0pky"><a href="https://github.com/anp-scp/ES119_SEM_2_AY_25_26/blob/main/labs/lab6_17_feb/SupervisedLearning.ipynb" target="_blank" rel="noopener noreferrer">Notebook</a></td>
+  </tr>
 
 </tbody>
 </table>
