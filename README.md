@@ -49,6 +49,12 @@ This repository contains all notebooks for tutorials discussed during lab sessio
     <td class="tg-0pky">Supervised Learning &amp; ML</td>
     <td class="tg-0pky"><a href="https://github.com/anp-scp/ES119_SEM_2_AY_25_26/blob/main/labs/lab6_17_feb/SupervisedLearning.ipynb" target="_blank" rel="noopener noreferrer">Notebook</a></td>
   </tr>
-
+  </tr>
+    <tr>
+    <td class="tg-lboi">7</td>
+    <td class="tg-9wq8">10/03/2026</td>
+    <td class="tg-0pky">Pytorch Deep Dive &amp; ML</td>
+    <td class="tg-0pky"><a href="https://github.com/anp-scp/ES119_SEM_2_AY_25_26/blob/main/labs/lab7_10_mar/pytorch_deep_dive_lab7.ipynb" target="_blank" rel="noopener noreferrer">Notebook</a></td>
+  </tr>
 </tbody>
 </table>
